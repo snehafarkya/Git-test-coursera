@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "to learn node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snehafarkya/Git-test-coursera.git"
+  },
+  "author": "Sneha Farkya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehafarkya/Git-test-coursera/issues"
+  },
+  "homepage": "https://github.com/snehafarkya/Git-test-coursera#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
